@@ -18,6 +18,7 @@ React Native と Supabase を使用した、ユーザー認証とプロフィー
 - [TypeScript](https://www.typescriptlang.org/) - 型安全な JavaScript
 - [@rneui/themed](https://reactnativeelements.com/) - UI コンポーネントライブラリ
 - [Expo Image Picker](https://docs.expo.dev/versions/latest/sdk/imagepicker/) - 画像選択機能
+- [react-native-url-polyfill](https://github.com/charpeni/react-native-url-polyfill) - URL API のポリフィル
 
 ### バックエンド
 
